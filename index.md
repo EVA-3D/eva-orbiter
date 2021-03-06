@@ -6,7 +6,13 @@ badges:
 
 ![preview](assets/Orbiter.__ALL__.png)
 
-EVA 2 now supports [The Orbiter](https://www.thingiverse.com/thing:4223085) created by Robert Lorincz. Orbiter 1.5 was released during the development of this EVA module so for now 1.5 is not supported but when it comes to the older, supported version we have both the default and the CR-10 mounting options.
+EVA 2 now supports [The Orbiter](https://www.thingiverse.com/thing:4725897){target=_blank} created by Robert Lorincz. 
+
+Since EVA 2.2.1 Orbiter 1.5 is the only supported version of the Orbiter.
+
+??? info "Orbiter 1.0 users"
+
+    Old parts supporting the old Orbiter can be found in git history on tag [2.2.0](https://github.com/EVA-3D/eva-orbiter/tree/2.2.0/stls){target=_blank}
 
 ### Links
 
