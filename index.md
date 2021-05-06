@@ -59,7 +59,3 @@ Since EVA 2.2.1 Orbiter 1.5 is the only supported version of the Orbiter.
 
 {{ download_button }}
 {{ cad_link }}
-
-{{ repo_url }}
-
-{{ cad_url }}
